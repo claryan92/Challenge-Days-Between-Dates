@@ -1,0 +1,9 @@
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\bin\Challenge Days Between Dates.dll.config
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\bin\Challenge Days Between Dates.dll
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\bin\Challenge Days Between Dates.pdb
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\obj\Debug\Challenge Days Between Dates.csprojResolveAssemblyReference.cache
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\obj\Debug\Challenge Days Between Dates.csproj.CoreCompileInputs.cache
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\obj\Debug\Challenge Days Between Dates.dll
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Days Between Dates\Challenge Days Between Dates\obj\Debug\Challenge Days Between Dates.pdb
